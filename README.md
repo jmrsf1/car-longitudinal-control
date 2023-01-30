@@ -1,11 +1,7 @@
 # car-longitudinal-control
 Simulations on car longitudinal control.
 
-Run car_model.m to simulate 'car_model.slx' without driveline dynamics.
-
-Run driveline.m to simulate driveline dynamics in 'driveline.slx'.
-
-Both models available in the simulink files.
+Run car_model.m to simulate longitudinal control implemented in file 'car_model.slx'.
 
 
 
