@@ -1,5 +1,5 @@
 # car-longitudinal-control
-Simulations on car longitudinal control.
+Simulations of car longitudinal dynamics and their control.
 
 Run car_model.m to simulate longitudinal control implemented in file 'car_model.slx'.
 
