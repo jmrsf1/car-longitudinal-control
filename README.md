@@ -4,8 +4,16 @@ Simulations on car longitudinal control.
 Run car_model.m to simulate longitudinal control implemented in file 'car_model.slx'.
 
 
+<<<<<<< HEAD
 
 
 Main reference:
 Rajesh Rajamani. Vehicle Dynamics and Con-
 trol. Springer Science, New York, 2006
+=======
+Main reference:
+Rajesh Rajamani. Vehicle Dynamics and Con-
+trol. Springer Science, New York, 2006
+
+Final grade: 18/20
+>>>>>>> 0b256e1 (added report)
